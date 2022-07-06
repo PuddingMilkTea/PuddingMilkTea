@@ -24,9 +24,9 @@
 ![Youtube](https://badges.aleen42.com/src/youtube.svg) : Youtube  
 ![Spotify](https://badges.aleen42.com/src/spotify.svg) : Spotify  
 ### The design applications I'm using:
-![Adobe Illustrator](https://badges.aleen42.com/src/illustrator.svg) : Adobe Illustrator
-![Adobe Photoshop](https://badges.aleen42.com/src/photoshop.svg) : Adobe Photoshop
-![Adobe After Effects](https://badges.aleen42.com/src/after_effects.svg) : Adobe After Effects
+![Adobe After Effects](https://badges.aleen42.com/src/after_effects.svg) : Adobe After Effects  
+![Adobe Photoshop](https://badges.aleen42.com/src/photoshop.svg) : Adobe Photoshop  
+![Adobe Illustrator](https://badges.aleen42.com/src/illustrator.svg) : Adobe Illustrator   
 ### One of my repositories:
 #### Digital CLock:
 > [![Digital-Clock](https://github-readme-stats.vercel.app/api/pin/?username=cod01234&repo=Digital-Clock&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&border_color=fAA61A&border_radius=10)](https://github.com/cod01234/Digital-Clock)  
