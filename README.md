@@ -10,12 +10,12 @@
 ![RSS](https://badges.aleen42.com/src/rss.svg) : RSS  
 ### The websites I use to learn and find information:
 ![Stack Overflow](https://badges.aleen42.com/src/stackoverflow.svg) : Stack Overflow  
-![Youtube](https://badges.aleen42.com/src/youtube.svg) : Youtube
+![Google_Plus](https://badges.aleen42.com/src/google_plus.svg) : Google+  
+![Youtube](https://badges.aleen42.com/src/youtube.svg) : Youtube  
 ### The social medias I'm using:
 ![Instagram](https://badges.aleen42.com/src/instagram.svg) : Instagram  
 ![Facebook](https://badges.aleen42.com/src/facebook.svg) : Facebook  
 ![Pinterest](https://badges.aleen42.com/src/pinterest.svg) : Pinterest  
-![Google_Plus](https://badges.aleen42.com/src/google_plus.svg) : Google +  
 ![Discord](https://badges.aleen42.com/src/discord.svg) : Discord  
 ![Twitter](https://badges.aleen42.com/src/twitter.svg) : Twitter  
 ![Reddit](https://badges.aleen42.com/src/reddit.svg) : Reddit  
