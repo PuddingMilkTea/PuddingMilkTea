@@ -1,7 +1,7 @@
 <p align="center">COD01234's Profile</p>
 
 ### Discord
-![https://discord.com/users/408826019760308224](https://discord.c99.nl/widget/theme-3/408826019760308224.png)
+<a href=https://discord.com/users/408826019760308224><p><img class="dcimg" src="https://discord.c99.nl/widget/theme-3/408826019760308224.png?&radius=25&force_format=png"></p></a>
 ---
 ### Digital CLock
 > [![Digital-Clock](https://github-readme-stats.vercel.app/api/pin/?username=cod01234&repo=Digital-Clock&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&border_color=fAA61A&border_radius=10)](https://github.com/cod01234/Digital-Clock)  
