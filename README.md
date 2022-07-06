@@ -1,4 +1,5 @@
-<p align="center" class="sizes">COD01234's Profile</p>
+<p align="center">COD01234's Profile</p>
+
 ### Discord
 ![https://discord.com/users/408826019760308224](https://discord.c99.nl/widget/theme-3/408826019760308224.png)
 ---
