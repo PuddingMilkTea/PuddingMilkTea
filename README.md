@@ -38,3 +38,18 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cod01234&theme=radical">
 <img src="https://activity-graph.herokuapp.com/graph?username=cod01234&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">
 </p>
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31jwb7pg2cyujxhuxz4gmr7ct24e?si=MUOEvGrTQ9ytZHVW6851ew)
+
+
+----
+
+![Profile views](https://profile-counter.glitch.me/cod01234/count.svg)
+
+
+```zsh
+>  check out my repos 👇
+```
