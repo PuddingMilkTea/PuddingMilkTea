@@ -1,5 +1,6 @@
 ### <p align="center">My Github Profile</p>
 #### <p align="center">A student/programmer from Taiwan</p>
+##### <p align="center">2006.3.17</p>
 ---
 ### Discord:
 <a href=https://discord.com/users/408826019760308224><p><img class="Discordimg" src="https://discord.c99.nl/widget/theme-3/408826019760308224.png"></p></a>
