@@ -1,32 +1,31 @@
-## <p align="center">My Github Profile</p>
-
+### <p align="center">My Github Profile</p>
+#### <p align="center">A student/programmer from Taiwan</p>
+---
 ### Discord:
 <a href=https://discord.com/users/408826019760308224><p><img class="Discordimg" src="https://discord.c99.nl/widget/theme-3/408826019760308224.png"></p></a>
 ---
-### The programming tools I'm using:
-![Vs Code](https://badges.aleen42.com/src/visual_studio_code.svg) : Visual Studio Code  
-![Github](https://badges.aleen42.com/src/github.svg) : Github  
-![npm](https://badges.aleen42.com/src/npm.svg) : npm  
-![RSS](https://badges.aleen42.com/src/rss.svg) : RSS  
-### The websites I use to learn and find information:
-![Stack Overflow](https://badges.aleen42.com/src/stackoverflow.svg) : Stack Overflow  
-![Google_Plus](https://badges.aleen42.com/src/google_plus.svg) : Google+  
-![Youtube](https://badges.aleen42.com/src/youtube.svg) : Youtube  
-### The social medias I'm using:
-![Instagram](https://badges.aleen42.com/src/instagram.svg) : Instagram  
-![Facebook](https://badges.aleen42.com/src/facebook.svg) : Facebook  
-![Pinterest](https://badges.aleen42.com/src/pinterest.svg) : Pinterest  
-![Discord](https://badges.aleen42.com/src/discord.svg) : Discord  
-![Twitter](https://badges.aleen42.com/src/twitter.svg) : Twitter  
-![Reddit](https://badges.aleen42.com/src/reddit.svg) : Reddit  
-### The social medias I'm using:
-![SoundCloud](https://badges.aleen42.com/src/soundcloud.svg) : SoundCloud  
-![Youtube](https://badges.aleen42.com/src/youtube.svg) : Youtube  
-![Spotify](https://badges.aleen42.com/src/spotify.svg) : Spotify  
-### The design applications I'm using:
-![Adobe After Effects](https://badges.aleen42.com/src/after_effects.svg) : Adobe After Effects  
-![Adobe Photoshop](https://badges.aleen42.com/src/photoshop.svg) : Adobe Photoshop  
-![Adobe Illustrator](https://badges.aleen42.com/src/illustrator.svg) : Adobe Illustrator   
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+### Information sources:
+![Stack Overflow](https://badges.aleen42.com/src/stackoverflow.svg)  
+![Google_Plus](https://badges.aleen42.com/src/google_plus.svg)    
+![Youtube](https://badges.aleen42.com/src/youtube.svg)  
+### Social medias:
+![Instagram](https://badges.aleen42.com/src/instagram.svg)    
+![Facebook](https://badges.aleen42.com/src/facebook.svg)    
+![Pinterest](https://badges.aleen42.com/src/pinterest.svg)    
+![Discord](https://badges.aleen42.com/src/discord.svg)    
+![Twitter](https://badges.aleen42.com/src/twitter.svg)    
+![Reddit](https://badges.aleen42.com/src/reddit.svg)    
+### Multimedias:
+![SoundCloud](https://badges.aleen42.com/src/soundcloud.svg)    
+![Youtube](https://badges.aleen42.com/src/youtube.svg)    
+![Spotify](https://badges.aleen42.com/src/spotify.svg)    
+### Design applications:
+![Adobe After Effects](https://badges.aleen42.com/src/after_effects.svg)  
+![Adobe Photoshop](https://badges.aleen42.com/src/photoshop.svg)    
+![Adobe Illustrator](https://badges.aleen42.com/src/illustrator.svg)     
 ### One of my repositories:
 #### Digital CLock:
 > [![Digital-Clock](https://github-readme-stats.vercel.app/api/pin/?username=cod01234&repo=Digital-Clock&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&border_color=fAA61A&border_radius=10)](https://github.com/cod01234/Digital-Clock)  
@@ -40,6 +39,8 @@
 </p>
 
 
+
+
 ----
 
 #### Profile views
@@ -49,3 +50,4 @@
 ```zsh
 >  check out my repos 👇
 ```
+
