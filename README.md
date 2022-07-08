@@ -8,7 +8,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### Information sources:
+### Information sources: 
 ![Stack Overflow](https://badges.aleen42.com/src/stackoverflow.svg)  
 ![Google_Plus](https://badges.aleen42.com/src/google_plus.svg)    
 ![Youtube](https://badges.aleen42.com/src/youtube.svg)  
@@ -33,7 +33,7 @@
 > ![CodeFactor](https://img.shields.io/codefactor/grade/github/PuddingMilkTea/Digital-Clock/main?color=%23F44A6A&logo=codefactor&style=for-the-badge) ![codeL](https://img.shields.io/tokei/lines/github/PuddingMilkTea/Digital-Clock?style=for-the-badge) ![commit](https://img.shields.io/github/last-commit/PuddingMilkTea/Digital-Clock?color=%23181717&logo=GitHub&style=for-the-badge)
 ### ⚙ Github Analytics:
 ![Github Stats](https://github-readme-stats.vercel.app/api/?username=PuddingMilkTea&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=9B84EE&border_radius=10)  ![Top Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=PuddingMilkTea&show_icons=true&bg_color=23272A&title_color=FFC0CB&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=43B581&border_radius=10)
-### ⚙ Commits Streak
+### ⚙ Commits Streak:
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PuddingMilkTea&theme=radical">
 <img src="https://activity-graph.herokuapp.com/graph?username=PuddingMilkTea&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">
